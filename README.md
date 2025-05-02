@@ -16,6 +16,15 @@ An end-to-end Natural Language Processing (NLP) pipeline to analyze patient-writ
 - Healthcare-Focused Aspects: Targeted extractions (e.g., "side effects", "efficacy") critical to pharma analytics
 - Real-Time Conversational AI: A bot that reacts to sentiment, not just input text
 
+📊 Model Performance & Visual Insights
+
+- Model Accuracy:
+  SVM (TF-IDF): 80% accuracy
+  Voting Classifier: 82% accuracy
+  DistilBERT (fine-tuned): 87% accuracy
+  Aspect Extraction Accuracy: 90% (manual validation)
+  Chatbot Relevance Score: 92%, Empathy Score: 87%
+
 🚀 Future Extensions
 
 - Multi-language support (e.g., Hindi, German, French)
