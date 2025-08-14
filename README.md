@@ -57,7 +57,7 @@ A multi-model strategy was employed, starting with a baseline SVM and progressin
 A key innovation of this project is a sentiment-aware chatbot that generates empathetic and relevant responses to user reviews. Below is a demonstration of the bot in action, followed by its performance metrics.
 
 <p align="center">
-  <img src="Images/chatbot_demo.png" alt="Chatbot Demo" width="90%">
+  <img src="Images/chatbot.png" alt="Chatbot Demo" width="90%">
 </p>
 
 The bot's performance was evaluated based on its relevance and empathy.
