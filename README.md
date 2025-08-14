@@ -29,7 +29,7 @@ Deeper analysis reveals the sentiment breakdown and the specific aspects (like s
 
 <p align="center">
   <img src="Images/sentiment_pie.png" alt="Sentiment Distribution Pie Chart" width="32%">
-  <img src=Images/treemap.png" alt="Treemap of Conditions" width="32%">
+  <img src="Images/treemap.png" alt="Treemap" width="32%">
   <img src="Images/aspect_heatmap.png" alt="Aspect Sentiment Heatmap" width="32%">
 </p>
 <p align="center">
